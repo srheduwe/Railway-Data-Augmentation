@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Download UAV-RSOD dataset
 
-Download the open-source UAV-RSOD dataset by Rampriya et al. from [Zenodo](https://zenodo.org/records/12606374) and add to ```data/nature_data/``` folder.
+Download the open-source UAV-RSOD dataset from Rampriya et al. from [Zenodo](https://zenodo.org/records/12606374) and add to ```data/nature_data/``` folder.
 
 ## Classifier fine-tuning
 
