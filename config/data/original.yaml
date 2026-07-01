@@ -1,6 +1,6 @@
 # Original dataset containing 315 pics
 name: 'original'
-data_path_1: '~/open-source-project/data/V1 UAV-RSOD_Dataset for Segmentation'
+data_path_1: '~/open-source-project/data/nature_data/V1 UAV-RSOD_Dataset for Segmentation'
 data_path_2: None
 json_path: '~/open-source-project/config/label2idx.json'
 num_classes: 6
