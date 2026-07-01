@@ -1,0 +1,7 @@
+# Default training parameters
+ckpt_path: "~/models_cache/final_classifiers"
+num_epochs: 200
+weight_decay: 1e-2
+patience: 15
+delta: 1e-4
+seed: 42

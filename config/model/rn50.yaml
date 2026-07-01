@@ -1,0 +1,14 @@
+# ResNet-50 configuration
+name: 'rn50'
+hidden_dim: None
+pretrained: None
+dropout_rate: 0.2
+freeze_backbone: False
+learning_rate: 1e-4
+target_width: 256
+target_height: 256
+lr_scheduler_type: None
+warmup_steps: None
+batch_size: 32
+metric_for_best_model: "eval_loss"
+greater_is_better: False

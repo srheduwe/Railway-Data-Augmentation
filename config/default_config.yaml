@@ -1,0 +1,4 @@
+defaults:
+  - model: rn50
+  - data: original
+  - training: train

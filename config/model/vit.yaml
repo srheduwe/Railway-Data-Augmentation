@@ -1,0 +1,14 @@
+# ViT classifier configuration
+name: 'vit'
+hidden_dim: None
+pretrained: True
+dropout_rate: 0.2
+freeze_backbone: False
+learning_rate: 2e-5
+target_width: 224
+target_height: 224
+lr_scheduler_type: 'cosine'
+warmup_steps: 200
+batch_size: 256
+metric_for_best_model: "accuracy"
+greater_is_better: True

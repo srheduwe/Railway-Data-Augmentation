@@ -1,0 +1,7 @@
+# Generated dataset containing 6 classes augmented by the baseline dataset
+name: 'synthetic+'
+data_path_1: '~/open-source-project/data/synthetic'
+data_path_2: '~/open-source-project/data/nature_data/V2 UAV-RSOD_Dataset for Segmentation'
+json_path: '~/open-source-project/config/label2idx.json'
+num_classes: 6
+num_workers: 4
